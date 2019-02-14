@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main4Activity"
+    android:columnCount="3"
+    android:rowCount="5">
+
+    <ImageView android:src="@drawable/pi1"/>
+    <ImageView android:src="@drawable/pi2"/>
+    <ImageView android:src="@drawable/pi3"/>
+    <ImageView android:src="@drawable/pi4"/>
+    <ImageView android:src="@drawable/pi5"/>
+    <ImageView android:src="@drawable/pi6"/>
+    <ImageView android:src="@drawable/pi7"/>
+    <ImageView android:src="@drawable/pi8"/>
+    <ImageView android:src="@drawable/pi9"/>
+    <ImageView android:src="@drawable/pia"/>
+    <ImageView android:src="@drawable/pib"/>
+    <ImageView android:src="@drawable/pic"/>
+    <ImageView android:src="@drawable/pid"/>
+    <ImageView android:src="@drawable/pie"/>
+    <ImageView android:src="@drawable/pif"/>
+
+
+
+</GridLayout>

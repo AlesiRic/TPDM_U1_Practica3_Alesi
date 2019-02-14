@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity"
+    android:padding="10dp">
+
+    <TableRow>
+        <ImageView android:src="@drawable/p1"
+            android:layout_margin="5dp"/>
+        <ImageView android:src="@drawable/p2"
+            android:layout_margin="5dp"/>
+    </TableRow>
+    <TableRow>
+        <ImageView android:src="@drawable/p3"
+            android:layout_margin="5dp"/>
+        <ImageView android:src="@drawable/p4"
+            android:layout_margin="5dp"/>
+    </TableRow>
+    <TableRow>
+        <ImageView android:src="@drawable/p5"
+            android:layout_margin="5dp"/>
+        <ImageView android:src="@drawable/p6"
+            android:layout_margin="5dp"/>
+    </TableRow>
+    <TableRow>
+        <ImageView android:src="@drawable/p7"
+            android:layout_margin="5dp"/>
+        <ImageView android:src="@drawable/p8"
+            android:layout_margin="5dp"/>
+    </TableRow>
+
+</TableLayout>
